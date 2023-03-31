@@ -1,0 +1,16 @@
+
+public class CrearEmpleaado {
+	public static void main(String[] args) {
+		
+		Empleado primerEmpleado = new Empleado();
+		primerEmpleado.nombre = "Daniel";
+		primerEmpleado.apellido = "Zapana";
+		primerEmpleado.edad = 24;
+		primerEmpleado.dni = 12345678;
+		System.out.println(primerEmpleado.nombre);
+		System.out.println(primerEmpleado.apellido);
+		System.out.println(primerEmpleado.edad);
+		System.out.println(primerEmpleado.dni);
+	}
+
+}

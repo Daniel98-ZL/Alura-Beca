@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Daniel_ZL\Documents\Java-Alura\.metadata\.plugins\org.eclipse.jdt.core
+3718695521.index
+1535177651.index
+1090753477.index
+1865797976.index

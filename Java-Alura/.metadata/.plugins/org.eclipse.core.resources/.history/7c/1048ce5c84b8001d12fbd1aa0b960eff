@@ -1,0 +1,20 @@
+class Empleado {
+	
+	String nombre;
+	String apellido;
+	int dni;
+	int edad;
+	double salario;
+	
+	public void pago (double dinero) {
+		salario = salario + dinero;
+	}
+	
+	public boolean descuento (double dinero) {
+		if (salario >= dinero) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+}

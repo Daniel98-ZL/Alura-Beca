@@ -1,0 +1,12 @@
+class Empleado {
+	
+	String nombre;
+	String apellido;
+	int dni;
+	int edad;
+	double salario;
+	
+	void pago (double dinero) {
+		salario = salario + dinero;
+	}
+}
